@@ -1,0 +1,25 @@
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\bin\Debug\002 Sudoku.exe.config
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\bin\Debug\002 Sudoku.exe
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\bin\Debug\002 Sudoku.pdb
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.csprojAssemblyReference.cache
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.Form1.resources
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.Properties.Resources.resources
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.csproj.GenerateResource.cache
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.exe
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.pdb
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.AboutBox1.resources
+C:\Users\gtqyqs\Desktop\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.WinMessage.resources
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\bin\Debug\002 Sudoku.exe.config
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\bin\Debug\002 Sudoku.exe
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\bin\Debug\002 Sudoku.pdb
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.AboutBox1.resources
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.Form1.resources
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.WinMessage.resources
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\_002_Sudoku.Properties.Resources.resources
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.exe
+\\Mac\Home\Downloads\high school projects\002 Sudoku\002 Sudoku\obj\Debug\002 Sudoku.pdb
